@@ -1,0 +1,1 @@
+This project is a real-time intrusion detection system that leverages TensorFlow for object detection and a modern React + Next.js frontend for seamless live monitoring via camera feed. It captures video input from a webcam or IP camera, processes each frame using a trained TensorFlow COCO-SSD model
